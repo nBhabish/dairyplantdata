@@ -4,5 +4,6 @@
 # Installation Guide
 Install the package running the following line of code:
 ```
-remotes::install_github("nBhabish/DairyPlant")
+remotes::install_github("nBhabish/dairyplantdata")
+dairy_plant_data
 ```

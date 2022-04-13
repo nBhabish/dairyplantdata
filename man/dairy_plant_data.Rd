@@ -48,6 +48,7 @@ A tibble with 1,983 rows and 35 variables:
 \url{https://www.dairyfoods.com/directories}
 }
 \usage{
+remotes::install_github("nBhabish/dairyplantdata")
 dairy_plant_data
 }
 \description{
