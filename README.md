@@ -5,5 +5,6 @@
 Install the package running the following line of code:
 ```
 remotes::install_github("nBhabish/dairyplantdata")
+library(dairyplantdata)
 dairy_plant_data
 ```
